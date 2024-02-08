@@ -1,0 +1,3 @@
+/Users/aa/Desktop/Games101/Homework0/build/CMakeFiles/Homework0.dir
+/Users/aa/Desktop/Games101/Homework0/build/CMakeFiles/edit_cache.dir
+/Users/aa/Desktop/Games101/Homework0/build/CMakeFiles/rebuild_cache.dir
